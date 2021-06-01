@@ -1,0 +1,67 @@
+name: navisunpasit
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+  #firebase_core: ^0.7.0
+  #cloud_firestore: ^0.16.0+1
+  #firebase_analytics: ^7.0.1
+  #firebase_auth: ^0.20.1
+
+  cupertino_icons: ^1.0.0
+  flutter_launcher_icons: "^0.8.0"
+  rflutter_alert: ^2.0.2
+  carousel_pro: ^1.0.0
+
+  #dio: ^4.0.0
+  #flutter_polyline_points: ^0.2.6
+  google_maps_flutter: ^2.0.2
+  logger: ^0.8.3
+  form_field_validator: ^1.1.0
+
+  #firebase_core: ^1.1.1
+  #cloud_firestore: ^2.1.0
+
+  firebase_core: ^0.4.4
+  cloud_firestore: 0.13.4
+
+  dio: ^2.0.0
+  flutter_polyline_points: ^0.2.4
+  
+
+  #cloud_firestore: ^0.13.3
+
+flutter_icons:
+  android:  true
+  image_path:  "image/hospital.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  fonts:
+    - family: Itim
+      fonts:
+        - asset: fonts/Itim-Regular.ttf
+
+  uses-material-design: true
+
+  assets:
+    - image/
+    - image/floor/
+    - image/poster/
+    - image/icon/
+    

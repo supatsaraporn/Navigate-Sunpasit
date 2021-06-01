@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "820527033864",
+    "project_id": "navisunpasit",
+    "storage_bucket": "navisunpasit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820527033864:android:e0816e72ccb3cb28cbabbd",
+        "android_client_info": {
+          "package_name": "com.example.navisunpasit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820527033864-ghpfsceuvngh9lji86ca0e2vtf0rl33g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-DVmBbYc-tNLWKRdIZ6_ZYG_U1ybmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820527033864-ghpfsceuvngh9lji86ca0e2vtf0rl33g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820527033864:android:a6499532f7558b29cbabbd",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820527033864-ghpfsceuvngh9lji86ca0e2vtf0rl33g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-DVmBbYc-tNLWKRdIZ6_ZYG_U1ybmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820527033864-ghpfsceuvngh9lji86ca0e2vtf0rl33g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
